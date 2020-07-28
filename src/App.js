@@ -7,6 +7,7 @@ import { Button, Alert } from "react-bootstrap";
 import Slider from "./components/slider";
 import BestSeller from "./components/bestSeller";
 import Footer from "./components/footer";
+import TrustedPartner from "./components/trustedPartner";
 function App() {
   return (
     <div className="container-fluid" style={{ background: "white" }}>
@@ -14,6 +15,7 @@ function App() {
       <Banner></Banner>
       <Slider></Slider>
       <BestSeller></BestSeller>
+      <TrustedPartner></TrustedPartner>
       <Footer></Footer>
     </div>
   );
