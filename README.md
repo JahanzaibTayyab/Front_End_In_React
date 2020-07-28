@@ -1,4 +1,4 @@
-![GitHub Logo](/images/Web1.jpg)
+![GitHub Logo](https://github.com/JahanzaibTayyab/Front_End_In_React/blob/master/images/Web1.JPG)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
